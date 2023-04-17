@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# production
+build
+dist
+out
+
+# local env files
+.env*.local
+.env
+
+# typescript
+*.tsbuildinfo
+
+# sseo 
+**/*.css
+**/**/*.css
+.sass-cache
+
+# file temp
+tmp

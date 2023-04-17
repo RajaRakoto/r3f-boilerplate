@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# production
+build
+dist
+out
+
+# main
+.eslintrc.js
+sass-eo-cli.js
+
+# file temp
+tmp

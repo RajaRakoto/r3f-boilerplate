@@ -1,0 +1,51 @@
+# dependencies
+node_modules
+.pnp
+
+# testing
+coverage
+
+# production
+out 
+build
+dist
+dist-ssr
+*.local
+
+# misc
+.DS_Store
+*.pem
+
+# ide
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# local env files
+.env*.local
+.env
+
+# typescript
+*.tsbuildinfo
+
+# sseo 
+**/*.css.map
+**/**/*.css.map
+.sass-cache
+
+# file temp
+tmp

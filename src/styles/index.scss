@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@import 'sass-eo-basics';
+
+@include normalize();
+
+body {
+  background-color: #555;
+}
